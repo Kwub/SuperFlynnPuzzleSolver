@@ -1,20 +1,35 @@
 let XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 
 let listRequest = new XMLHttpRequest();
-listRequest.open('GET', "https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt", false);
+listRequest.open('GET', "http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/cmudict-0.7b", false);
 listRequest.send();
 
 let wordsList = listRequest.responseText.split('\n');
 let filteredList = [];
 
-for (let i = 0; i < wordsList.length; i++) {
+let counter = 0
+for (let i = 126; i < wordsList.length; i++) {
 
     let word = wordsList[i]
-    word = word.replace("\r", "")
-    console.log(i)
-    if (accessAPI(word)) {
-        console.log(word);
+    let newWord = word.split(" ")
+
+    // word = word.replace("\r", "")
+    if (newWord[newWord.length - 1].includes("EY")) {
+        counter++
+        console.log(counter)
+        let newerWord = newWord[0]
+        if (newerWord.endsWith(")")) {
+            newerWord = newerWord.substring(0, newerWord.length - 3)
+        }
+        // console.log(newerWord)
+        if (accessAPI(newerWord)) {
+            console.log("FOUND: " + newerWord);
+        }
     }
+    
+    
+    
+    // console.log(wordsList[i])
     
 }
 
@@ -33,8 +48,9 @@ function accessAPI(wordQuery) {
     let jsonString = wordRequest.responseText
     jsonString = jsonString.toLowerCase();
     let word = JSON.parse(jsonString);
-    
-    if (typeof word[0].shortdef !== "undefined") {
+    // console.log(word)
+
+    if (typeof word[0] !== "undefined" && typeof word[0].shortdef !== "undefined") {
 
         for (let i = 0; i < word.length; i++) {
             let match = false;
@@ -50,5 +66,7 @@ function accessAPI(wordQuery) {
                 }
             
         }
-    } 
+    } else {
+        console.log("UNDEFINED")
+    }
 }
