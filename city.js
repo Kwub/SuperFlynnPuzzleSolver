@@ -52,7 +52,7 @@ function uncap(a) {
     for (let i = 0; i < a.length; i++) {
         a[i] = a[i].toLowerCase()
     }
-    return a;
+    return a
 }
 
 // checks array equality
@@ -71,5 +71,5 @@ function areEqual(a, b) {
             }
         }
     }
-    return true;
+    return true
 }

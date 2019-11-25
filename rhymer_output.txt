@@ -1,0 +1,1873 @@
+A  [ 'AHLF', 'RALF' ]
+O  [ 'GOLF' ]
+ 
+A  [ 'AKST', 'BAXT' ]
+E  [ 'HEXT', 'NEXT', 'TEXT' ]
+ 
+A  [ 'ALMS' ]
+E  [ 'ELMS' ]
+ 
+A  [ 'AMYX' ]
+O  [ 'ONYX', 'ORYX' ]
+ 
+A  [ 'ANDS' ]
+E  [ 'ENDS' ]
+ 
+A  [ 'ANDY' ]
+E  [ 'ENDY' ]
+I  [ 'INDY' ]
+ 
+A  [ 'ANTS' ]
+E  [ 'ENTZ' ]
+ 
+A  [ 'ARCS', 'MARX' ]
+O  [ 'ORKS' ]
+ 
+A  [ 'ASBY' ]
+O  [ 'OSBY' ]
+ 
+A  [ 'BACH' ]
+O  [ 'BOCH', 'BOCK' ]
+ 
+A  [ 'BAHR' ]
+E  [ 'BEHR' ]
+ 
+A  [ 'BAHT' ]
+O  [ 'BOTT' ]
+ 
+A  [ 'BALM' ]
+O  [ 'BOHM', 'BOMB' ]
+ 
+A  [ 'AKST', 'BAXT' ]
+E  [ 'HEXT', 'NEXT', 'TEXT' ]
+ 
+A  [ 'BAHR' ]
+E  [ 'BEHR' ]
+ 
+E  [ 'BERG' ]
+U  [ 'BURG' ]
+ 
+E  [ 'BERK' ]
+I  [ 'BIRK' ]
+U  [ 'BURK' ]
+ 
+E  [ 'BERN' ]
+U  [ 'BURN' ]
+ 
+E  [ 'BERT' ]
+I  [ 'BIRT' ]
+U  [ 'BURT' ]
+ 
+I  [ 'BIRD' ]
+U  [ 'BURD' ]
+ 
+E  [ 'BERK' ]
+I  [ 'BIRK' ]
+U  [ 'BURK' ]
+ 
+I  [ 'BIRR' ]
+U  [ 'BURR' ]
+ 
+E  [ 'BERT' ]
+I  [ 'BIRT' ]
+U  [ 'BURT' ]
+ 
+A  [ 'BLAS' ]
+O  [ 'CLOS' ]
+ 
+A  [ 'BLAY' ]
+E  [ 'BLEY' ]
+ 
+A  [ 'BLAY' ]
+E  [ 'BLEY' ]
+ 
+A  [ 'BACH' ]
+O  [ 'BOCH', 'BOCK' ]
+ 
+A  [ 'BACH' ]
+O  [ 'BOCH', 'BOCK' ]
+ 
+A  [ 'BALM' ]
+O  [ 'BOHM', 'BOMB' ]
+ 
+A  [ 'BALM' ]
+O  [ 'BOHM', 'BOMB' ]
+ 
+A  [ 'WAND' ]
+O  [ 'BOND', 'FOND', 'GOND', 'POND' ]
+ 
+A  [ 'WANK' ]
+O  [ 'BONK', 'CONK', 'RONK', 'VONK' ]
+ 
+A  [ 'HANS' ]
+O  [ 'BONS' ]
+ 
+A  [ 'WARK' ]
+O  [
+  'BORK', 'CORK',
+  'FORK', 'MORK',
+  'NORK', 'PORK',
+  'RORK', 'YORK'
+]
+ 
+A  [ 'WARN' ]
+O  [
+  'BORN', 'CORN',
+  'DORN', 'HORN',
+  'KORN', 'MORN',
+  'PORN', 'TORN',
+  'WORN', 'ZORN'
+]
+ 
+A  [ 'WARS' ]
+O  [ 'BORS', 'HORS', 'ZORZ' ]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+A  [ 'BAHT' ]
+O  [ 'BOTT' ]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'MAXY', 'WAXY' ]
+E  [ 'SEXY' ]
+I  [ 'DIXY' ]
+O  [ 'BOXY', 'DOXY', 'FOXY', 'ROXY' ]
+ 
+A  [ 'BRAY' ]
+E  [ 'BREY' ]
+ 
+A  [ 'BRAY' ]
+E  [ 'BREY' ]
+ 
+O  [ 'FROM' ]
+U  [ 'BRUM', 'CRUM', 'DRUM', 'FRUM', 'GRUM', 'KRUM' ]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+I  [ 'BIRD' ]
+U  [ 'BURD' ]
+ 
+E  [ 'BERG' ]
+U  [ 'BURG' ]
+ 
+E  [ 'BERK' ]
+I  [ 'BIRK' ]
+U  [ 'BURK' ]
+ 
+E  [ 'BERN' ]
+U  [ 'BURN' ]
+ 
+I  [ 'BIRR' ]
+U  [ 'BURR' ]
+ 
+E  [ 'BERT' ]
+I  [ 'BIRT' ]
+U  [ 'BURT' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+I  [ 'IZZY' ]
+U  [ 'BUSY' ]
+ 
+A  [ 'BYAS', 'DYAS' ]
+U  [ 'BYUS' ]
+ 
+A  [ 'BYAS', 'DYAS' ]
+U  [ 'BYUS' ]
+ 
+A  [ 'CALM' ]
+O  [ 'COMM' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+E  [ 'CERF', 'SERF' ]
+U  [ 'SURF' ]
+ 
+A  [ 'SHAY' ]
+E  [ 'CHEZ' ]
+ 
+A  [ 'CLAY', 'KLAY' ]
+E  [ 'KLEY' ]
+ 
+A  [ 'BLAS' ]
+O  [ 'CLOS' ]
+ 
+A  [ 'KAHL' ]
+O  [ 'COLL', 'KOLL' ]
+ 
+A  [ 'CALM' ]
+O  [ 'COMM' ]
+ 
+A  [ 'WANK' ]
+O  [ 'BONK', 'CONK', 'RONK', 'VONK' ]
+ 
+A  [ 'KAHN', 'KHAN' ]
+O  [ 'CONN', 'KOHN' ]
+ 
+A  [ 'WARD' ]
+O  [ 'CORD', 'FORD', 'HORD', 'LORD', 'MORD', 'NORD' ]
+ 
+A  [ 'WARK' ]
+O  [
+  'BORK', 'CORK',
+  'FORK', 'MORK',
+  'NORK', 'PORK',
+  'RORK', 'YORK'
+]
+ 
+A  [ 'WARM' ]
+O  [ 'CORM', 'DORM', 'FORM', 'NORM' ]
+ 
+A  [ 'WARN' ]
+O  [
+  'BORN', 'CORN',
+  'DORN', 'HORN',
+  'KORN', 'MORN',
+  'PORN', 'TORN',
+  'WORN', 'ZORN'
+]
+ 
+A  [ 'WARP' ]
+O  [ 'CORP', 'TORP' ]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'KHAT' ]
+O  [ 'COTT', 'KOTT', 'SCOT' ]
+ 
+A  [ 'CRAY', 'KRAY' ]
+E  [ 'KREY' ]
+ 
+A  [ 'PRAN' ]
+O  [ 'CRON', 'HRON', 'KRON', 'ROHN', 'TRON' ]
+ 
+O  [ 'FROM' ]
+U  [ 'BRUM', 'CRUM', 'DRUM', 'FRUM', 'GRUM', 'KRUM' ]
+ 
+E  [ 'KERB' ]
+U  [ 'CURB' ]
+ 
+E  [ 'KERL' ]
+U  [ 'CURL' ]
+ 
+I  [ 'KIRT' ]
+U  [ 'CURT', 'KURT' ]
+ 
+A  [ 'DAHL' ]
+O  [ 'DOLL' ]
+ 
+A  [ 'DARR' ]
+E  [ 'DERR' ]
+ 
+E  [ 'DERK' ]
+I  [ 'DIRK' ]
+ 
+E  [ 'DERN' ]
+U  [ 'DURN' ]
+ 
+A  [ 'DARR' ]
+E  [ 'DERR' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+E  [ 'DEWS' ]
+O  [ "DO'S" ]
+ 
+E  [ 'DYES' ]
+I  [ "DI'S" ]
+ 
+E  [ 'DERK' ]
+I  [ 'DIRK' ]
+ 
+I  [ 'DIRR' ]
+U  [ 'DUHR', 'DURR' ]
+ 
+A  [ 'MAXY', 'WAXY' ]
+E  [ 'SEXY' ]
+I  [ 'DIXY' ]
+O  [ 'BOXY', 'DOXY', 'FOXY', 'ROXY' ]
+ 
+E  [ 'DEWS' ]
+O  [ "DO'S" ]
+ 
+A  [ 'DAHL' ]
+O  [ 'DOLL' ]
+ 
+A  [ 'WARF' ]
+O  [ 'DORF', 'KORF' ]
+ 
+A  [ 'WARM' ]
+O  [ 'CORM', 'DORM', 'FORM', 'NORM' ]
+ 
+A  [ 'WARN' ]
+O  [
+  'BORN', 'CORN',
+  'DORN', 'HORN',
+  'KORN', 'MORN',
+  'PORN', 'TORN',
+  'WORN', 'ZORN'
+]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'MAXY', 'WAXY' ]
+E  [ 'SEXY' ]
+I  [ 'DIXY' ]
+O  [ 'BOXY', 'DOXY', 'FOXY', 'ROXY' ]
+ 
+A  [ 'DRAY' ]
+E  [ 'DREY' ]
+ 
+A  [ 'DRAY' ]
+E  [ 'DREY' ]
+ 
+O  [ 'FROM' ]
+U  [ 'BRUM', 'CRUM', 'DRUM', 'FRUM', 'GRUM', 'KRUM' ]
+ 
+I  [ 'DIRR' ]
+U  [ 'DUHR', 'DURR' ]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+E  [ 'DERN' ]
+U  [ 'DURN' ]
+ 
+I  [ 'DIRR' ]
+U  [ 'DUHR', 'DURR' ]
+ 
+A  [ 'DWAN', 'HWAN', 'JWAN', 'KWAN', 'SWAN', 'WANN' ]
+O  [ 'KWON' ]
+ 
+A  [ 'DYAR' ]
+E  [ 'DYER' ]
+ 
+A  [ 'BYAS', 'DYAS' ]
+U  [ 'BYUS' ]
+ 
+A  [ 'DYAR' ]
+E  [ 'DYER' ]
+ 
+E  [ 'DYES' ]
+I  [ "DI'S" ]
+ 
+E  [ 'EGLY' ]
+U  [ 'UGLY' ]
+ 
+A  [ 'ALMS' ]
+E  [ 'ELMS' ]
+ 
+A  [ 'ANDS' ]
+E  [ 'ENDS' ]
+ 
+A  [ 'ANDY' ]
+E  [ 'ENDY' ]
+I  [ 'INDY' ]
+ 
+A  [ 'ANTS' ]
+E  [ 'ENTZ' ]
+ 
+E  [ 'ERBY' ]
+I  [ 'IRBY' ]
+ 
+E  [ 'ERTL' ]
+O  [ 'MOTL' ]
+ 
+E  [ 'ESTY' ]
+I  [ 'ISTY' ]
+ 
+E  [ 'FERM' ]
+I  [ 'FIRM' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+E  [ 'FERM' ]
+I  [ 'FIRM' ]
+ 
+I  [ 'FIRS' ]
+O  [ 'FORS' ]
+U  [ 'FURS' ]
+ 
+A  [ 'WAND' ]
+O  [ 'BOND', 'FOND', 'GOND', 'POND' ]
+ 
+A  [ 'WANT' ]
+O  [ 'FONT', 'MONT', 'PONT' ]
+ 
+A  [ 'WARD' ]
+O  [ 'CORD', 'FORD', 'HORD', 'LORD', 'MORD', 'NORD' ]
+ 
+A  [ 'WARK' ]
+O  [
+  'BORK', 'CORK',
+  'FORK', 'MORK',
+  'NORK', 'PORK',
+  'RORK', 'YORK'
+]
+ 
+A  [ 'WARM' ]
+O  [ 'CORM', 'DORM', 'FORM', 'NORM' ]
+ 
+I  [ 'FIRS' ]
+O  [ 'FORS' ]
+U  [ 'FURS' ]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+A  [ 'MAXY', 'WAXY' ]
+E  [ 'SEXY' ]
+I  [ 'DIXY' ]
+O  [ 'BOXY', 'DOXY', 'FOXY', 'ROXY' ]
+ 
+A  [ 'FRAY' ]
+E  [ 'FREY' ]
+ 
+A  [ 'FRAY' ]
+E  [ 'FREY' ]
+ 
+O  [ 'FROM' ]
+U  [ 'BRUM', 'CRUM', 'DRUM', 'FRUM', 'GRUM', 'KRUM' ]
+ 
+O  [ 'FROM' ]
+U  [ 'BRUM', 'CRUM', 'DRUM', 'FRUM', 'GRUM', 'KRUM' ]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+I  [ 'FIRS' ]
+O  [ 'FORS' ]
+U  [ 'FURS' ]
+ 
+A  [ 'GAHR' ]
+O  [ 'GOHR' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+A  [ 'GATX' ]
+I  [ 'VISX' ]
+ 
+E  [ 'GERD' ]
+I  [ 'GIRD' ]
+ 
+E  [ 'GERT' ]
+I  [ 'GIRT' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+E  [ 'GERD' ]
+I  [ 'GIRD' ]
+ 
+E  [ 'GERT' ]
+I  [ 'GIRT' ]
+ 
+A  [ 'WADS' ]
+O  [ 'GODS', 'NODS', 'ODDS', 'PODS', 'RODS' ]
+ 
+A  [ 'GAHR' ]
+O  [ 'GOHR' ]
+ 
+A  [ 'AHLF', 'RALF' ]
+O  [ 'GOLF' ]
+ 
+A  [ 'WAND' ]
+O  [ 'BOND', 'FOND', 'GOND', 'POND' ]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'MAVS' ]
+O  [ 'GOVS' ]
+ 
+A  [ 'GRAY' ]
+E  [ 'GREY' ]
+ 
+A  [ 'GRAY' ]
+E  [ 'GREY' ]
+ 
+O  [ 'FROM' ]
+U  [ 'BRUM', 'CRUM', 'DRUM', 'FRUM', 'GRUM', 'KRUM' ]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+A  [ 'HAHL' ]
+O  [ 'HOLL' ]
+ 
+A  [ 'HAHN' ]
+O  [ 'HOHN', 'HONN' ]
+ 
+A  [ 'HAHS' ]
+O  [ 'HOSS' ]
+ 
+A  [ 'HANS' ]
+O  [ 'BONS' ]
+ 
+A  [ 'HAYN' ]
+E  [ 'HEYN' ]
+ 
+A  [ 'HAYS' ]
+E  [ 'HEYS' ]
+ 
+E  [ 'HERD' ]
+I  [ 'HIRD' ]
+U  [ 'HURD' ]
+ 
+E  [ 'HERL' ]
+U  [ 'HURL' ]
+ 
+E  [ 'HERM' ]
+U  [ 'HURM' ]
+ 
+E  [ 'HERN' ]
+I  [ 'HIRN' ]
+U  [ 'HURN' ]
+ 
+E  [ 'HERT' ]
+I  [ 'HIRT' ]
+U  [ 'HURT' ]
+ 
+E  [ 'HEWS', 'PEWS' ]
+I  [ "IQ'S" ]
+U  [ "U.'S", "YU'S" ]
+ 
+A  [ 'AKST', 'BAXT' ]
+E  [ 'HEXT', 'NEXT', 'TEXT' ]
+ 
+A  [ 'HAYN' ]
+E  [ 'HEYN' ]
+ 
+A  [ 'HAYS' ]
+E  [ 'HEYS' ]
+ 
+E  [ 'HERD' ]
+I  [ 'HIRD' ]
+U  [ 'HURD' ]
+ 
+E  [ 'HERN' ]
+I  [ 'HIRN' ]
+U  [ 'HURN' ]
+ 
+E  [ 'HERT' ]
+I  [ 'HIRT' ]
+U  [ 'HURT' ]
+ 
+A  [ 'HAHN' ]
+O  [ 'HOHN', 'HONN' ]
+ 
+A  [ 'HAHL' ]
+O  [ 'HOLL' ]
+ 
+A  [ 'HAHN' ]
+O  [ 'HOHN', 'HONN' ]
+ 
+A  [ 'WARD' ]
+O  [ 'CORD', 'FORD', 'HORD', 'LORD', 'MORD', 'NORD' ]
+ 
+A  [ 'WARN' ]
+O  [
+  'BORN', 'CORN',
+  'DORN', 'HORN',
+  'KORN', 'MORN',
+  'PORN', 'TORN',
+  'WORN', 'ZORN'
+]
+ 
+A  [ 'WARS' ]
+O  [ 'BORS', 'HORS', 'ZORZ' ]
+ 
+A  [ 'HAHS' ]
+O  [ 'HOSS' ]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'PRAN' ]
+O  [ 'CRON', 'HRON', 'KRON', 'ROHN', 'TRON' ]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+E  [ 'HERD' ]
+I  [ 'HIRD' ]
+U  [ 'HURD' ]
+ 
+E  [ 'HERL' ]
+U  [ 'HURL' ]
+ 
+E  [ 'HERM' ]
+U  [ 'HURM' ]
+ 
+E  [ 'HERN' ]
+I  [ 'HIRN' ]
+U  [ 'HURN' ]
+ 
+E  [ 'HERT' ]
+I  [ 'HIRT' ]
+U  [ 'HURT' ]
+ 
+A  [ 'DWAN', 'HWAN', 'JWAN', 'KWAN', 'SWAN', 'WANN' ]
+O  [ 'KWON' ]
+ 
+A  [ 'RYAN', 'WYAN' ]
+E  [ 'RYEN' ]
+O  [ 'LYON', 'RYON' ]
+U  [ 'HYUN' ]
+ 
+A  [ 'ANDY' ]
+E  [ 'ENDY' ]
+I  [ 'INDY' ]
+ 
+A  [ 'MANX' ]
+I  [ 'INKS', 'JINX' ]
+ 
+E  [ 'HEWS', 'PEWS' ]
+I  [ "IQ'S" ]
+U  [ "U.'S", "YU'S" ]
+ 
+E  [ 'ERBY' ]
+I  [ 'IRBY' ]
+ 
+E  [ 'ESTY' ]
+I  [ 'ISTY' ]
+ 
+I  [ 'IZZY' ]
+U  [ 'BUSY' ]
+ 
+A  [ 'MANX' ]
+I  [ 'INKS', 'JINX' ]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+A  [ 'DWAN', 'HWAN', 'JWAN', 'KWAN', 'SWAN', 'WANN' ]
+O  [ 'KWON' ]
+ 
+A  [ 'KAHL' ]
+O  [ 'COLL', 'KOLL' ]
+ 
+A  [ 'KAHN', 'KHAN' ]
+O  [ 'CONN', 'KOHN' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+E  [ 'KERB' ]
+U  [ 'CURB' ]
+ 
+E  [ 'KERL' ]
+U  [ 'CURL' ]
+ 
+E  [ 'KERN' ]
+I  [ 'KIRN' ]
+ 
+E  [ 'KERR' ]
+U  [ 'KUHR' ]
+ 
+E  [ 'KEYS' ]
+I  [ 'SKIS' ]
+ 
+A  [ 'KAHN', 'KHAN' ]
+O  [ 'CONN', 'KOHN' ]
+ 
+A  [ 'KHAT' ]
+O  [ 'COTT', 'KOTT', 'SCOT' ]
+ 
+I  [ 'KIRK' ]
+U  [ 'KURK' ]
+ 
+E  [ 'KERN' ]
+I  [ 'KIRN' ]
+ 
+I  [ 'KIRT' ]
+U  [ 'CURT', 'KURT' ]
+ 
+A  [ 'CLAY', 'KLAY' ]
+E  [ 'KLEY' ]
+ 
+A  [ 'CLAY', 'KLAY' ]
+E  [ 'KLEY' ]
+ 
+A  [ 'KAHN', 'KHAN' ]
+O  [ 'CONN', 'KOHN' ]
+ 
+A  [ 'KAHL' ]
+O  [ 'COLL', 'KOLL' ]
+ 
+A  [ 'WARF' ]
+O  [ 'DORF', 'KORF' ]
+ 
+A  [ 'WARN' ]
+O  [
+  'BORN', 'CORN',
+  'DORN', 'HORN',
+  'KORN', 'MORN',
+  'PORN', 'TORN',
+  'WORN', 'ZORN'
+]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+A  [ 'KHAT' ]
+O  [ 'COTT', 'KOTT', 'SCOT' ]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'CRAY', 'KRAY' ]
+E  [ 'KREY' ]
+ 
+A  [ 'CRAY', 'KRAY' ]
+E  [ 'KREY' ]
+ 
+A  [ 'RALL', 'RAWL' ]
+O  [ 'KROL' ]
+ 
+A  [ 'PRAN' ]
+O  [ 'CRON', 'HRON', 'KRON', 'ROHN', 'TRON' ]
+ 
+O  [ 'FROM' ]
+U  [ 'BRUM', 'CRUM', 'DRUM', 'FRUM', 'GRUM', 'KRUM' ]
+ 
+E  [ 'KERR' ]
+U  [ 'KUHR' ]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+I  [ 'KIRK' ]
+U  [ 'KURK' ]
+ 
+I  [ 'KIRT' ]
+U  [ 'CURT', 'KURT' ]
+ 
+A  [ 'DWAN', 'HWAN', 'JWAN', 'KWAN', 'SWAN', 'WANN' ]
+O  [ 'KWON' ]
+ 
+A  [ 'DWAN', 'HWAN', 'JWAN', 'KWAN', 'SWAN', 'WANN' ]
+O  [ 'KWON' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'LAYS' ]
+E  [ 'LEYS' ]
+ 
+A  [ 'MANY' ]
+E  [ 'LENY' ]
+ 
+A  [ 'LAYS' ]
+E  [ 'LEYS' ]
+ 
+A  [ 'WARD' ]
+O  [ 'CORD', 'FORD', 'HORD', 'LORD', 'MORD', 'NORD' ]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+A  [ 'RYAN', 'WYAN' ]
+E  [ 'RYEN' ]
+O  [ 'LYON', 'RYON' ]
+U  [ 'HYUN' ]
+ 
+A  [ 'MACH' ]
+O  [ 'MOCH', 'MOCK' ]
+ 
+A  [ 'MAHL' ]
+O  [ 'MOLL' ]
+ 
+A  [ 'MANX' ]
+I  [ 'INKS', 'JINX' ]
+ 
+A  [ 'MANY' ]
+E  [ 'LENY' ]
+ 
+A  [ 'ARCS', 'MARX' ]
+O  [ 'ORKS' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+A  [ 'MAVS' ]
+O  [ 'GOVS' ]
+ 
+A  [ 'MAXY', 'WAXY' ]
+E  [ 'SEXY' ]
+I  [ 'DIXY' ]
+O  [ 'BOXY', 'DOXY', 'FOXY', 'ROXY' ]
+ 
+E  [ 'MERC', 'MERK' ]
+U  [ 'MURK' ]
+ 
+E  [ 'MERC', 'MERK' ]
+U  [ 'MURK' ]
+ 
+E  [ 'MERV' ]
+I  [ 'MIRV' ]
+ 
+E  [ 'MERV' ]
+I  [ 'MIRV' ]
+ 
+A  [ 'MACH' ]
+O  [ 'MOCH', 'MOCK' ]
+ 
+A  [ 'MACH' ]
+O  [ 'MOCH', 'MOCK' ]
+ 
+A  [ 'MAHL' ]
+O  [ 'MOLL' ]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+A  [ 'WANT' ]
+O  [ 'FONT', 'MONT', 'PONT' ]
+ 
+A  [ 'WARD' ]
+O  [ 'CORD', 'FORD', 'HORD', 'LORD', 'MORD', 'NORD' ]
+ 
+A  [ 'WARK' ]
+O  [
+  'BORK', 'CORK',
+  'FORK', 'MORK',
+  'NORK', 'PORK',
+  'RORK', 'YORK'
+]
+ 
+A  [ 'WARN' ]
+O  [
+  'BORN', 'CORN',
+  'DORN', 'HORN',
+  'KORN', 'MORN',
+  'PORN', 'TORN',
+  'WORN', 'ZORN'
+]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+E  [ 'ERTL' ]
+O  [ 'MOTL' ]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+E  [ 'MERC', 'MERK' ]
+U  [ 'MURK' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+A  [ 'AKST', 'BAXT' ]
+E  [ 'HEXT', 'NEXT', 'TEXT' ]
+ 
+A  [ 'WADS' ]
+O  [ 'GODS', 'NODS', 'ODDS', 'PODS', 'RODS' ]
+ 
+A  [ 'WARD' ]
+O  [ 'CORD', 'FORD', 'HORD', 'LORD', 'MORD', 'NORD' ]
+ 
+A  [ 'WARK' ]
+O  [
+  'BORK', 'CORK',
+  'FORK', 'MORK',
+  'NORK', 'PORK',
+  'RORK', 'YORK'
+]
+ 
+A  [ 'WARM' ]
+O  [ 'CORM', 'DORM', 'FORM', 'NORM' ]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+A  [ 'WADS' ]
+O  [ 'GODS', 'NODS', 'ODDS', 'PODS', 'RODS' ]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+A  [ 'AMYX' ]
+O  [ 'ONYX', 'ORYX' ]
+ 
+A  [ 'ARCS', 'MARX' ]
+O  [ 'ORKS' ]
+ 
+A  [ 'AMYX' ]
+O  [ 'ONYX', 'ORYX' ]
+ 
+A  [ 'ASBY' ]
+O  [ 'OSBY' ]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+E  [ 'PERC', 'PERK' ]
+U  [ 'PURK' ]
+ 
+E  [ 'PERC', 'PERK' ]
+U  [ 'PURK' ]
+ 
+E  [ 'PERT' ]
+U  [ 'PURT' ]
+ 
+E  [ 'HEWS', 'PEWS' ]
+I  [ "IQ'S" ]
+U  [ "U.'S", "YU'S" ]
+ 
+A  [ 'WADS' ]
+O  [ 'GODS', 'NODS', 'ODDS', 'PODS', 'RODS' ]
+ 
+A  [ 'WAND' ]
+O  [ 'BOND', 'FOND', 'GOND', 'POND' ]
+ 
+A  [ 'WANT' ]
+O  [ 'FONT', 'MONT', 'PONT' ]
+ 
+A  [ 'WARK' ]
+O  [
+  'BORK', 'CORK',
+  'FORK', 'MORK',
+  'NORK', 'PORK',
+  'RORK', 'YORK'
+]
+ 
+A  [ 'WARN' ]
+O  [
+  'BORN', 'CORN',
+  'DORN', 'HORN',
+  'KORN', 'MORN',
+  'PORN', 'TORN',
+  'WORN', 'ZORN'
+]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'PRAN' ]
+O  [ 'CRON', 'HRON', 'KRON', 'ROHN', 'TRON' ]
+ 
+A  [ 'PRAY' ]
+E  [ 'PREY' ]
+ 
+A  [ 'PRAY' ]
+E  [ 'PREY' ]
+ 
+E  [ 'SPEW' ]
+U  [ 'PUGH' ]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+E  [ 'PERC', 'PERK' ]
+U  [ 'PURK' ]
+ 
+E  [ 'PERT' ]
+U  [ 'PURT' ]
+ 
+A  [ 'AHLF', 'RALF' ]
+O  [ 'GOLF' ]
+ 
+A  [ 'RALL', 'RAWL' ]
+O  [ 'KROL' ]
+ 
+A  [ 'RALL', 'RAWL' ]
+O  [ 'KROL' ]
+ 
+A  [ 'RAYS' ]
+E  [ "RE'S" ]
+ 
+A  [ 'RAYS' ]
+E  [ "RE'S" ]
+ 
+A  [ 'WADS' ]
+O  [ 'GODS', 'NODS', 'ODDS', 'PODS', 'RODS' ]
+ 
+A  [ 'PRAN' ]
+O  [ 'CRON', 'HRON', 'KRON', 'ROHN', 'TRON' ]
+ 
+A  [ 'WANK' ]
+O  [ 'BONK', 'CONK', 'RONK', 'VONK' ]
+ 
+A  [ 'WARK' ]
+O  [
+  'BORK', 'CORK',
+  'FORK', 'MORK',
+  'NORK', 'PORK',
+  'RORK', 'YORK'
+]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'MAXY', 'WAXY' ]
+E  [ 'SEXY' ]
+I  [ 'DIXY' ]
+O  [ 'BOXY', 'DOXY', 'FOXY', 'ROXY' ]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+A  [ 'RYAN', 'WYAN' ]
+E  [ 'RYEN' ]
+O  [ 'LYON', 'RYON' ]
+U  [ 'HYUN' ]
+ 
+A  [ 'RYAN', 'WYAN' ]
+E  [ 'RYEN' ]
+O  [ 'LYON', 'RYON' ]
+U  [ 'HYUN' ]
+ 
+A  [ 'RYAN', 'WYAN' ]
+E  [ 'RYEN' ]
+O  [ 'LYON', 'RYON' ]
+U  [ 'HYUN' ]
+ 
+A  [ 'SAHL' ]
+O  [ 'SOLL' ]
+ 
+A  [ 'KHAT' ]
+O  [ 'COTT', 'KOTT', 'SCOT' ]
+ 
+E  [ 'CERF', 'SERF' ]
+U  [ 'SURF' ]
+ 
+E  [ 'SEWN' ]
+O  [ 'SOWN' ]
+ 
+A  [ 'MAXY', 'WAXY' ]
+E  [ 'SEXY' ]
+I  [ 'DIXY' ]
+O  [ 'BOXY', 'DOXY', 'FOXY', 'ROXY' ]
+ 
+A  [ 'SHAY' ]
+E  [ 'CHEZ' ]
+ 
+E  [ 'SHER' ]
+I  [ 'SHIR' ]
+U  [ 'SHUR' ]
+ 
+E  [ 'SHER' ]
+I  [ 'SHIR' ]
+U  [ 'SHUR' ]
+ 
+E  [ 'SHER' ]
+I  [ 'SHIR' ]
+U  [ 'SHUR' ]
+ 
+I  [ 'SIGL' ]
+O  [ 'VOGL' ]
+ 
+E  [ 'KEYS' ]
+I  [ 'SKIS' ]
+ 
+A  [ 'WAFT' ]
+O  [ 'SOFT', 'TOFT' ]
+ 
+A  [ 'SAHL' ]
+O  [ 'SOLL' ]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+E  [ 'SEWN' ]
+O  [ 'SOWN' ]
+ 
+A  [ 'SPAY' ]
+E  [ 'SPEY' ]
+ 
+E  [ 'SPEW' ]
+U  [ 'PUGH' ]
+ 
+A  [ 'SPAY' ]
+E  [ 'SPEY' ]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+E  [ 'CERF', 'SERF' ]
+U  [ 'SURF' ]
+ 
+A  [ 'DWAN', 'HWAN', 'JWAN', 'KWAN', 'SWAN', 'WANN' ]
+O  [ 'KWON' ]
+ 
+A  [ 'AKST', 'BAXT' ]
+E  [ 'HEXT', 'NEXT', 'TEXT' ]
+ 
+A  [ 'WAFT' ]
+O  [ 'SOFT', 'TOFT' ]
+ 
+O  [ 'SONS', 'TONS' ]
+U  [
+  'BUNS', 'DUNS', 'FUNS',
+  'GUNS', 'KUNS', 'KUNZ',
+  'LUNZ', 'MUNS', 'MUNZ',
+  'NUNS', 'PUNS', 'RUNS',
+  'SUNS'
+]
+ 
+A  [ 'WARN' ]
+O  [
+  'BORN', 'CORN',
+  'DORN', 'HORN',
+  'KORN', 'MORN',
+  'PORN', 'TORN',
+  'WORN', 'ZORN'
+]
+ 
+A  [ 'WARP' ]
+O  [ 'CORP', 'TORP' ]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'TRAY' ]
+E  [ 'TREY' ]
+ 
+A  [ 'TRAY' ]
+E  [ 'TREY' ]
+ 
+A  [ 'PRAN' ]
+O  [ 'CRON', 'HRON', 'KRON', 'ROHN', 'TRON' ]
+ 
+E  [ 'HEWS', 'PEWS' ]
+I  [ "IQ'S" ]
+U  [ "U.'S", "YU'S" ]
+ 
+E  [ 'EGLY' ]
+U  [ 'UGLY' ]
+ 
+A  [ 'VAHL' ]
+O  [ 'VOLL' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+A  [ 'GATX' ]
+I  [ 'VISX' ]
+ 
+I  [ 'SIGL' ]
+O  [ 'VOGL' ]
+ 
+A  [ 'VAHL' ]
+O  [ 'VOLL' ]
+ 
+A  [ 'WANK' ]
+O  [ 'BONK', 'CONK', 'RONK', 'VONK' ]
+ 
+A  [ 'WADS' ]
+O  [ 'GODS', 'NODS', 'ODDS', 'PODS', 'RODS' ]
+ 
+A  [ 'WAFT' ]
+O  [ 'SOFT', 'TOFT' ]
+ 
+A  [ 'WAHL' ]
+O  [ 'WOLL' ]
+ 
+A  [ 'WAND' ]
+O  [ 'BOND', 'FOND', 'GOND', 'POND' ]
+ 
+A  [ 'WANK' ]
+O  [ 'BONK', 'CONK', 'RONK', 'VONK' ]
+ 
+A  [ 'DWAN', 'HWAN', 'JWAN', 'KWAN', 'SWAN', 'WANN' ]
+O  [ 'KWON' ]
+ 
+A  [ 'WANT' ]
+O  [ 'FONT', 'MONT', 'PONT' ]
+ 
+A  [ 'WARD' ]
+O  [ 'CORD', 'FORD', 'HORD', 'LORD', 'MORD', 'NORD' ]
+ 
+A  [ 'WARF' ]
+O  [ 'DORF', 'KORF' ]
+ 
+A  [ 'WARK' ]
+O  [
+  'BORK', 'CORK',
+  'FORK', 'MORK',
+  'NORK', 'PORK',
+  'RORK', 'YORK'
+]
+ 
+A  [ 'WARM' ]
+O  [ 'CORM', 'DORM', 'FORM', 'NORM' ]
+ 
+A  [ 'WARN' ]
+O  [
+  'BORN', 'CORN',
+  'DORN', 'HORN',
+  'KORN', 'MORN',
+  'PORN', 'TORN',
+  'WORN', 'ZORN'
+]
+ 
+A  [ 'WARP' ]
+O  [ 'CORP', 'TORP' ]
+ 
+A  [ 'WARS' ]
+O  [ 'BORS', 'HORS', 'ZORZ' ]
+ 
+A  [ 'WART' ]
+O  [
+  'BORT', 'CORT',
+  'DORT', 'FORT',
+  'GORT', 'KORT',
+  'MORT', 'OHRT',
+  'PORT', 'SORT',
+  'TORT'
+]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+A  [ 'WASS' ]
+U  [ 'WUSS' ]
+ 
+A  [ 'LATS', 'WATZ' ]
+O  [
+  'BOTZ', 'COTS', 'DOTS',
+  'GOTZ', 'HOTS', 'HOTZ',
+  'KOTZ', 'LOTS', 'LOTZ',
+  'MOTS', 'MOTZ', 'NOTS',
+  'NOTZ', 'OTTS', 'POTS',
+  'ROTS', 'ROTZ', 'TOTS'
+]
+ 
+A  [ 'MAXY', 'WAXY' ]
+E  [ 'SEXY' ]
+I  [ 'DIXY' ]
+O  [ 'BOXY', 'DOXY', 'FOXY', 'ROXY' ]
+ 
+E  [ 'WERK' ]
+O  [ 'WORK' ]
+ 
+E  [ 'WERT' ]
+I  [ 'WIRT' ]
+ 
+A  [
+  'CARY', 'GARY',
+  'KARY', 'LARY',
+  'MARY', 'NARY',
+  'VARY', 'WARY'
+]
+E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
+U  [ 'BURY' ]
+ 
+E  [ 'WERT' ]
+I  [ 'WIRT' ]
+ 
+I  [ 'WIRZ' ]
+U  [ 'WURZ' ]
+ 
+O  [ 'WOLF' ]
+U  [ 'WULF' ]
+ 
+A  [ 'WAHL' ]
+O  [ 'WOLL' ]
+ 
+E  [ 'WERK' ]
+O  [ 'WORK' ]
+ 
+O  [ 'WORM' ]
+U  [ 'WURM' ]
+ 
+A  [ 'WARN' ]
+O  [
+  'BORN', 'CORN',
+  'DORN', 'HORN',
+  'KORN', 'MORN',
+  'PORN', 'TORN',
+  'WORN', 'ZORN'
+]
+ 
+O  [ 'WOLF' ]
+U  [ 'WULF' ]
+ 
+O  [ 'WORM' ]
+U  [ 'WURM' ]
+ 
+I  [ 'WIRZ' ]
+U  [ 'WURZ' ]
+ 
+A  [ 'WASS' ]
+U  [ 'WUSS' ]
+ 
+A  [ 'RYAN', 'WYAN' ]
+E  [ 'RYEN' ]
+O  [ 'LYON', 'RYON' ]
+U  [ 'HYUN' ]
+ 
+A  [ 'WARK' ]
+O  [
+  'BORK', 'CORK',
+  'FORK', 'MORK',
+  'NORK', 'PORK',
+  'RORK', 'YORK'
+]
+ 
+E  [ 'HEWS', 'PEWS' ]
+I  [ "IQ'S" ]
+U  [ "U.'S", "YU'S" ]
+ 
+O  [ 'MONK' ]
+U  [
+  'BUNK', 'DUNC',
+  'DUNK', 'FUNK',
+  'HUNK', 'JUNK',
+  'MUNK', 'PUNK',
+  'RUNK', 'SUNK',
+  'YUNK'
+]
+ 
+A  [ 'WARN' ]
+O  [
+  'BORN', 'CORN',
+  'DORN', 'HORN',
+  'KORN', 'MORN',
+  'PORN', 'TORN',
+  'WORN', 'ZORN'
+]
+ 
+A  [ 'WARS' ]
+O  [ 'BORS', 'HORS', 'ZORZ' ]
