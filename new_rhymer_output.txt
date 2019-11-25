@@ -1,4 +1,4 @@
-853 MATCHES
+Number of Matches:  848
 
 A  [
   "'KAY", 'A(1)', 'BAYH', 'BLAY',
@@ -7,7 +7,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -36,7 +36,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -67,7 +67,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 A  [ 'BACH', 'MACH' ]
 O  [
@@ -171,7 +170,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -191,8 +190,7 @@ A  [
 E  [ "FE'S", 'HEYS', 'LEYS', "RE'S" ]
  
 E  [ "BE'S", "E.'S", "HE'S", 'KEYS' ]
-I  [ "LI'S", 'SKIS', 'VIPS' ]
-U  [ 'SUVS' ]
+I  [ "LI'S", 'SKIS' ]
  
 A  [ 'BAHR', 'DARR' ]
 E  [
@@ -212,7 +210,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 E  [ 'BERG', 'FERG' ]
 U  [ 'BURG' ]
@@ -297,7 +294,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -326,7 +323,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -420,7 +417,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 A  [ 'SWAB' ]
 O  [
@@ -617,7 +613,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -646,7 +642,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -742,7 +738,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 O  [ 'MONK' ]
 U  [
@@ -963,7 +958,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -1045,7 +1040,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -1272,7 +1267,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -1375,7 +1370,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 A  [
   'BARR', 'CARR', 'CHAR', 'CLAR',
@@ -1499,7 +1493,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 A  [ 'AWRY' ]
 E  [
@@ -1510,7 +1503,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 E  [
   'BERK', 'DERK',
@@ -1785,7 +1777,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -1814,7 +1806,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -1859,7 +1851,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 E  [ 'JERR', 'KERR', 'SHER' ]
 I  [ 'BIRR', 'DIRR', 'SHIR', 'STIR' ]
@@ -1996,8 +1987,7 @@ I  [ "DI'S", "I.'S" ]
 U  [ 'BUYS', 'GUYS', 'NUYS' ]
  
 E  [ "BE'S", "E.'S", "HE'S", 'KEYS' ]
-I  [ "LI'S", 'SKIS', 'VIPS' ]
-U  [ 'SUVS' ]
+I  [ "LI'S", 'SKIS' ]
  
 E  [ 'ERBY' ]
 I  [ 'IRBY' ]
@@ -2137,7 +2127,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -2223,7 +2213,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 A  [ 'WAND' ]
 O  [ 'BOND', 'FOND', 'GOND', 'POND' ]
@@ -2287,7 +2276,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -2316,7 +2305,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -2357,7 +2346,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 A  [ 'WASS' ]
 U  [
@@ -2503,7 +2491,7 @@ E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
 U  [ 'BURY' ]
  
 A  [ 'SAYS' ]
-E  [ 'GHEZ', 'PRES', 'YNEZ' ]
+E  [ 'GHEZ', 'PRES' ]
  
 E  [ 'FERD', 'GERD', 'HERD', 'NERD' ]
 I  [ 'BIRD', 'GIRD', 'HIRD' ]
@@ -2708,7 +2696,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -2737,7 +2725,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -2843,7 +2831,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -2943,8 +2931,7 @@ A  [
 E  [ "FE'S", 'HEYS', 'LEYS', "RE'S" ]
  
 E  [ "BE'S", "E.'S", "HE'S", 'KEYS' ]
-I  [ "LI'S", 'SKIS', 'VIPS' ]
-U  [ 'SUVS' ]
+I  [ "LI'S", 'SKIS' ]
  
 A  [ 'BAHR', 'DARR' ]
 E  [
@@ -3045,7 +3032,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 E  [ 'FERD', 'GERD', 'HERD', 'NERD' ]
 I  [ 'BIRD', 'GIRD', 'HIRD' ]
@@ -3487,17 +3473,6 @@ O  [
   'POSH', 'TOSH'
 ]
  
-A  [ 'AWRY' ]
-E  [
-  'BELY', 'BLYE', 'BRYE',
-  'CRYE', 'DEFY', 'DENY',
-  'DRYE', 'FLYE', 'FRYE',
-  'RELY', 'SKYE', 'SLYE',
-  'WRYE'
-]
-I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
- 
 O  [ 'MONK' ]
 U  [
   'BUNK', 'DUNC',
@@ -3652,8 +3627,7 @@ U  [
 ]
  
 E  [ "BE'S", "E.'S", "HE'S", 'KEYS' ]
-I  [ "LI'S", 'SKIS', 'VIPS' ]
-U  [ 'SUVS' ]
+I  [ "LI'S", 'SKIS' ]
  
 A  [
   'DWAN', 'HAHN',
@@ -3739,7 +3713,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -3756,7 +3730,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -3977,7 +3951,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -3994,7 +3968,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -4319,7 +4293,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -4339,8 +4313,7 @@ A  [
 E  [ "FE'S", 'HEYS', 'LEYS', "RE'S" ]
  
 E  [ "BE'S", "E.'S", "HE'S", 'KEYS' ]
-I  [ "LI'S", 'SKIS', 'VIPS' ]
-U  [ 'SUVS' ]
+I  [ "LI'S", 'SKIS' ]
  
 A  [ 'SWAB' ]
 O  [
@@ -5061,7 +5034,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 A  [ 'BACH', 'MACH' ]
 O  [
@@ -5361,7 +5333,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -5579,7 +5551,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -5590,7 +5562,7 @@ E  [
 ]
  
 A  [ 'SAYS' ]
-E  [ 'GHEZ', 'PRES', 'YNEZ' ]
+E  [ 'GHEZ', 'PRES' ]
  
 E  [
   'BLEW', 'BREW', 'CHEW',
@@ -5611,7 +5583,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -5827,7 +5799,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 E  [
   'BLEW', 'BREW', 'CHEW',
@@ -6118,7 +6089,7 @@ O  [
 ]
  
 A  [ 'SAYS' ]
-E  [ 'GHEZ', 'PRES', 'YNEZ' ]
+E  [ 'GHEZ', 'PRES' ]
  
 A  [
   'BARR', 'CARR', 'CHAR', 'CLAR',
@@ -6211,7 +6182,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -6358,7 +6329,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 E  [ 'KYNE', 'LYNE', 'PYNE', 'TYNE', 'WYNE' ]
 I  [ 'SIGN' ]
@@ -6388,8 +6358,7 @@ E  [
 U  [ 'HUGH', 'PUGH', 'THRU', 'THUY' ]
  
 E  [ "BE'S", "E.'S", "HE'S", 'KEYS' ]
-I  [ "LI'S", 'SKIS', 'VIPS' ]
-U  [ 'SUVS' ]
+I  [ "LI'S", 'SKIS' ]
  
 A  [ 'BACH', 'MACH' ]
 O  [
@@ -6428,7 +6397,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 A  [ 'SLAV' ]
 O  [ 'SKOV' ]
@@ -6440,7 +6408,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -6535,7 +6503,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 A  [
   "'KAY", 'A(1)', 'BAYH', 'BLAY',
@@ -6544,7 +6511,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -6570,7 +6537,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -6712,7 +6679,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -6741,7 +6708,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -6792,7 +6759,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -6884,10 +6851,6 @@ U  [
   'WUSS'
 ]
  
-E  [ "BE'S", "E.'S", "HE'S", 'KEYS' ]
-I  [ "LI'S", 'SKIS', 'VIPS' ]
-U  [ 'SUVS' ]
- 
 A  [ 'SWAB' ]
 O  [
   'BLOB', 'BOBB', 'COBB',
@@ -6946,7 +6909,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -7059,7 +7022,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -7296,7 +7259,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -7325,7 +7288,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -7462,23 +7425,6 @@ O  [ "DO'S", 'TWOS' ]
 U  [ 'CRUZ', 'FLUS', "U.'S", "WU'S", "YU'S" ]
  
 A  [
-  "'KAY", 'A(1)', 'BAYH', 'BLAY',
-  'BRAY', 'CLAY', 'CRAY', 'DRAY',
-  'FLAY', 'FRAY', 'GRAY', 'GWAY',
-  'KLAY', 'KRAY', 'PLAY', 'PRAY',
-  'SHAY', 'SLAY', 'SMAY', 'SNAY',
-  'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
-]
-E  [
-  'BLEY', 'BREY', 'CHEZ',
-  'DREY', 'FREY', 'GREY',
-  'KLEY', 'KREY', 'LEYH',
-  'PREY', 'SPEY', 'THEY',
-  'TREY', 'WHEY'
-]
- 
-A  [
   'BAHL', 'DAHL', 'FAHL',
   'HAHL', 'KAHL', 'MAHL',
   'PAHL', 'PALL', 'RAHL',
@@ -7527,10 +7473,6 @@ A  [
 ]
 E  [ 'DERY', 'FERY', 'GERY', 'VERY', 'WERY' ]
 U  [ 'BURY' ]
- 
-E  [ "BE'S", "E.'S", "HE'S", 'KEYS' ]
-I  [ "LI'S", 'SKIS', 'VIPS' ]
-U  [ 'SUVS' ]
  
 A  [ 'BACH', 'MACH' ]
 O  [
@@ -7820,7 +7762,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -7902,7 +7844,7 @@ A  [
   'KLAY', 'KRAY', 'PLAY', 'PRAY',
   'SHAY', 'SLAY', 'SMAY', 'SNAY',
   'SPAY', 'STAY', 'SWAY', 'TRAY',
-  'V.A.', 'WRAY'
+  'WRAY'
 ]
 E  [
   'BLEY', 'BREY', 'CHEZ',
@@ -7921,7 +7863,6 @@ E  [
   'WRYE'
 ]
 I  [ 'HIGH', 'NIGH', 'SIGH' ]
-U  [ 'JULY' ]
  
 E  [ 'DEWS', 'HEWS', 'JEWS', 'NEWS', 'PEWS', 'TEWS' ]
 O  [ "DO'S", 'TWOS' ]
@@ -7989,9 +7930,6 @@ A  [
   'TSAR', 'YAHR'
 ]
 O  [ 'GOHR' ]
- 
-A  [ 'SAYS' ]
-E  [ 'GHEZ', 'PRES', 'YNEZ' ]
  
 A  [
   'DWAN', 'HAHN',
@@ -8159,3 +8097,4 @@ E  [
 ]
 I  [ 'HIRN', 'KIRN' ]
 U  [ 'BURN', 'DURN', 'HURN', 'TURN', 'ZURN' ]
+

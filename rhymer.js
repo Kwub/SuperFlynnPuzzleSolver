@@ -112,7 +112,7 @@ function findEnd(word) {
     let str = ""
 
     for (let i = 1; i < word.length; i++) {
-        if (word[i].includes("1") || word[i].includes("1") || word[i].includes("3")) {
+        if (word[i].includes("1") || word[i].includes("2") || word[i].includes("3")) {
             vsi.push(i)
         }
     }
