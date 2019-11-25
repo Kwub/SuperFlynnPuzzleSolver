@@ -16,7 +16,7 @@ for (let i = 56; i < wordsList.length; i++) {
     let word = wordsList[i].split(" ")
     if (hasOneVowel(word[0]) && word[0].length == 4) {
         fourletterwords.push(word[0])
-        let end = word[word.length-3] + word[word.length-2] + word[word.length-1] // IMPORTANT LINE
+        let end = findEnd(word)
         endList.push(end)
     }
 }
@@ -107,6 +107,24 @@ function hasOneVowel(word) {
     }
 }
 
+function findEnd(word) {
+    let vsi = [];
+    let str = ""
+
+    for (let i = 1; i < word.length; i++) {
+        if (word[i].includes("1") || word[i].includes("1") || word[i].includes("3")) {
+            vsi.push(i)
+        }
+    }
+    
+    for (let i = vsi[0]; i < word.length; i++) {
+        str += word[i]
+    }
+
+    return str
+}
+
+let numMatches = 0;
 for (let i = 0; i < sortedMatches.length; i++) {
     let activeVowels = []
     for (let j = 0; j < sortedMatches[i].length; j++) {
@@ -130,6 +148,9 @@ for (let i = 0; i < sortedMatches.length; i++) {
         if (activeVowels.includes(4)) {
             console.log("U ", sortedMatches[i][4])
         }
+        numMatches++
         console.log(" ")
     }
 }
+
+console.log("Number of Matches: ", numMatches)

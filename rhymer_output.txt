@@ -1,3 +1,5 @@
+408 TOTAL MATCHES
+
 A  [ 'AHLF', 'RALF' ]
 O  [ 'GOLF' ]
  
