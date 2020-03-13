@@ -1,10 +1,23 @@
-let XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+// let XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 
-let listRequest = new XMLHttpRequest();
-listRequest.open('GET', "http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/cmudict-0.7b", false);
-listRequest.send();
+// let listRequest = new XMLHttpRequest();
+// listRequest.open('GET', "http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/cmudict-0.7b", false);
+// listRequest.send();
 
-let wordsList = listRequest.responseText.split('\n');
+const fetch = require("node-fetch")
+
+let newText = ""
+
+let url = "http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/cmudict-0.7b"
+
+fetch(url).then(function(response) {
+    response.text().then(function(text) {
+      newText = text
+    });
+  });
+console.log(newText)
+
+let wordsList = newText.split('\n');
 let filteredList = [];
 
 let counter = 0

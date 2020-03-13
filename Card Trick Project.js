@@ -1,19 +1,22 @@
 //initialize cards
 let cards = []
 
-for (let i = 0; i < 21; i++) {
+for (let i = 0; i < 9; i++) {
     cards.push(false)
 }
 
 //set one as your card
-let randomNum = Math.floor(Math.random() * 22)
+let randomNum = Math.floor(Math.random() * cards.length)
 cards[randomNum] = true
+
+console.log("Starting position: " + (randomNum + 1))
+printStack(cards)
 
 for (let i = 0; i < 3; i++) {
     cards = dealAndReorder(cards)
     for (let j = 0; j < cards.length; j++) {
         if (cards[j]) {
-            console.log("\nCard is at position: " + (j + 1) + "\n")
+            console.log("Card is at position: " + (j + 1) + "\n")
         }
     }
     
@@ -59,6 +62,12 @@ function dealAndReorder(cards) {
     //pile with card goes in the middle. what goes on either side of the pile is irrelevant
     cards = cards.concat(falseArray, pileWithCard, falseArray) 
     
+    printStack(cards)
+
+    return cards
+}
+
+function printStack(cards) {
     //print final order of cards after putting piles together
     let cardsStr = ""
     for (let i = 0; i < cards.length; i++) {
@@ -69,6 +78,4 @@ function dealAndReorder(cards) {
         }
     }
     console.log("New order: " + cardsStr)
-
-    return cards
 }
